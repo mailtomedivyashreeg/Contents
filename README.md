@@ -47,7 +47,7 @@ Big query
 * This has combined with the different tools to produce the output.
 
 JIRA
-*It is a tool to provide tickets for the users to give them a task and track the the progress through it.
+* It is a tool to provide tickets for the users to give them a task and track the the progress through it.
 *The jira is to upload the task and tickets which we have created and it also has a links which can be shared with the users to track and make the changes to it.
 * The jira is used with the confluence page in which the tickets created in jira we need to create a page separately in confluence and we need to give the brief information and tasks completed in the tickets.
 
