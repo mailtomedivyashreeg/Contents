@@ -52,7 +52,8 @@ JIRA
 * The jira is used with the confluence page in which the tickets created in jira we need to create a page separately in confluence and we need to give the brief information and tasks completed in the tickets.
 
 Confluence
-*This is connected with jira in which it is used to showcase the progress which is done in jira.
+
+* This is connected with jira in which it is used to showcase the progress which is done in jira.
 * This page is accessed and the changes can only made by the analyst who creates the page for his tickets.
 * The confluence created need to be connceted with the jira epic number and we need to showcase all the process and task which is completed in jira.
 
