@@ -41,3 +41,20 @@ GitHub
 
 * I have been working on the data engineering domain with the tools such as python, bigquery, jira, confluence and the etl tools.
 * I have been working on the databricks certification of associate and professtional level related to data engineeering.
+
+Big query
+* The tool which is used to execute the queries with the dataset uploaded in the bitbucket.
+* This has combined with the different tools to produce the output.
+
+JIRA
+*It is a tool to provide tickets for the users to give them a task and track the the progress through it.
+*The jira is to upload the task and tickets which we have created and it also has a links which can be shared with the users to track and make the changes to it.
+* The jira is used with the confluence page in which the tickets created in jira we need to create a page separately in confluence and we need to give the brief information and tasks completed in the tickets.
+
+Confluence
+*This is connected with jira in which it is used to showcase the progress which is done in jira.
+* This page is accessed and the changes can only made by the analyst who creates the page for his tickets.
+* The confluence created need to be connceted with the jira epic number and we need to showcase all the process and task which is completed in jira.
+
+Pycharm
+* It is a python tool in which we can work with the combination of sql and python to create a automation query and we can generate a report with te help of it.
